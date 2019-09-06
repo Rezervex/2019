@@ -9,4 +9,5 @@ while D < B:
     D = D+A
     print (D)
 
+
     
